@@ -6,6 +6,11 @@ public class AllPages {
 ***************+*******
 *************
  */
+    /*
+20230201 ikinci yorum **************
+***************+*******
+*************
+ */
 private GoogleHome googleHome;
 private GoogleResult googleResult;
 
