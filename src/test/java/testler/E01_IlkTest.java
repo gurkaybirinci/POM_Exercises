@@ -19,6 +19,7 @@ public class E01_IlkTest {
         googleResult.gorsellerButonu.click();
         googleResult.alisverisButonu.click();
 
+        // Driver'ı kapat
         Driver.quitDriver();
     }
 }
