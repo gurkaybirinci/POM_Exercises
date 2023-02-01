@@ -1,7 +1,11 @@
 package pages;
 
 public class AllPages {
-
+/*
+20230201 ilk yorum **************
+***************+*******
+*************
+ */
 private GoogleHome googleHome;
 private GoogleResult googleResult;
 
